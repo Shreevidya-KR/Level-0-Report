@@ -1,0 +1,4 @@
+# Task 1: 3D Printing  
+
+3D printing is a pathway to convert digital dreams into tangible reality!! In this task I learnt the basic process of printing a model. Firstly I chose the design I wanted to print from the [Cult3d](https://cults3d.com/en/3d-model/art/lion-de-belfort-resin-edition) website. I here learnt majorly about slicing and STL file. Here the design is exported to the STL file format. Importance of bed temperature was understood further. Bed temperature is crucial in 3D printing because it directly affects the adhesion and stability of the first layers of the printed object.Finally I printed the Lion model:)
+![lion model](https://github.com/Shreevidya-KR/general-task-report/blob/main/lion%203d%20print.jpg?raw=true)

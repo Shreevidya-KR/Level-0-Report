@@ -1,0 +1,4 @@
+# Getting familiar with the command line on Ubuntu  
+Ubuntu is a popular Linux-based operating system (OS). In this task after installing the software in the system,following procedure was followed to finish the task.We use *mkdir* in ubuntu to create a folder. *cd* stands for  change directory, which defines the flow of the code/process.Basically in the first half of the task using *mkdir* and *cd* we create the required number of folders and files. For the second half of the task we use *cat* to merge two files and *touch* command to create empty file. Result of this task is shown below:  
+![Ubuntu work](https://github.com/Shreevidya-KR/general-task-report/blob/main/ubuntu.jpg?raw=true)  
+![Ubuntu work](https://github.com/Shreevidya-KR/general-task-report/blob/main/ubuntu%20(2).jpg?raw=true)

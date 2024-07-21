@@ -1,0 +1,5 @@
+# Task 3: Working with Github  
+This was a familiar task for me. Before going through the task I would first explain about git and github briefly at first. Where git is a software, github is like a library where the collection of all your work is stored. All the changes you have made in your work is saved and **this** a coder-friendly feature;)  
+  This task majorly highlights on *forking*,*push*,*pull*,*add* and *commit*. The terms are explained here:  
+  *Forking* means copying the repository you want to add your contributions in other terms make your changes. Later, in your command prompt you *clone* this ie you create your copy of this work in your local device. Now, you can make your changes. The cliche is the changes you have made in remote hasn't been uploaded to the local. In order to upload this you first *add* the change in your terminal. Then you *commit* the change you have made with a message. Here you are finalizing the change. Now it's the update time!!! You *push* your changes ie updating in the local.  
+  ![My changes](https://github.com/Shreevidya-KR/general-task-report/blob/main/git.jpg?raw=true)
